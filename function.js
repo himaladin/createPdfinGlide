@@ -119,7 +119,7 @@ window.function = function (html, fileName, format, zoom, orientation, margin, b
       border: none;
       border-radius: 0.5em;
       color: #DEDEDE;
-      box-shadow: 0.5em 0.5em 0.5em rgba(0, 0, 0, 0.3);
+      box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
       cursor: pointer;
       z-index: 999;
     }
@@ -133,7 +133,7 @@ window.function = function (html, fileName, format, zoom, orientation, margin, b
       left: 0;
       background: linear-gradient(135deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 50%, rgba(150,4,31,1) 50%, rgba(191,4,38,1) 60%);
       border-radius: 0 0 0.5em 0;
-      box-shadow: 0.2em 0.2em 0.2em rgba(0, 0, 0, 0.3);
+      box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
       transition: 0.3s;
     }
     
